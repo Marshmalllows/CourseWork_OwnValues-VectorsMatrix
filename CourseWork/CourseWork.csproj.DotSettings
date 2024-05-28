@@ -1,0 +1,2 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/DesignerComponentManagerNuGet/DesignerToolboxNuGetState/@EntryValue">E:\OOP\CourseWork\packages\ZedGraph.WinForms.6.0.0-alpha0001\lib\net35\ZedGraph.WinForms.dll|ZedGraph.ZedGraphControl</s:String></wpf:ResourceDictionary>
